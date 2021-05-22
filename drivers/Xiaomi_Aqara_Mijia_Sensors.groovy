@@ -98,16 +98,16 @@ metadata {
 		capability "Sensor"
 		capability "Refresh"
 		capability "Configuration"
-		capability "PresenceSensor"
+	
 
 		capability "IlluminanceMeasurement"
-		capability "RelativeHumidityMeasurement"
-		capability "TemperatureMeasurement"
-		capability "PressureMeasurement"
+		
+		
+		
 		capability "AccelerationSensor"
 		capability "MotionSensor"
-		capability "ContactSensor"
-		capability "WaterSensor"
+	
+		
 
 		capability "PushableButton"
 		capability "HoldableButton"
